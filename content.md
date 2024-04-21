@@ -23,3 +23,5 @@ Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ☺
 
+
+[link to test image](./docs/assets/images/free-png-test-test-passed-icon-1600.png)
