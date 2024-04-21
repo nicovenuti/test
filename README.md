@@ -14,3 +14,5 @@ Please ensure your pull request adheres to the following guidelines:
 - Create an issue to report a dead link.
 
 Thank you for your suggestions!
+
+[a relative link](content.md)
